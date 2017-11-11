@@ -1,0 +1,1472 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 404 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 404 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 404 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 404 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 404 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 404 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 404 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A/ HTTP/1.1" 404 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A HTTP/1.1" 404 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A HTTP/1.1" 404 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A HTTP/1.1" 404 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A HTTP/1.1" 404 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A HTTP/1.1" 404 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/A HTTP/1.1" 404 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arcidry01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arcidry01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderju01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderju01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allento01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allento01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arcidry01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arcidry01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsjo01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsjo01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/augusdj01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/augusdj01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsst01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsst01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/acyqu01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/acyqu01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderry01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderry01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/alexacl01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/alexacl01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthoca01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthoca01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ajincal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ajincal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/alexacl01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/alexacl01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsst01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsst01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderry01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderry01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthoca01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthoca01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arcidry01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arcidry01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allento01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allento01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/augusdj01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/augusdj01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/acyqu01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/acyqu01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsjo01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsjo01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ajincal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ajincal01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderju01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderju01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderju01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderju01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ajincal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ajincal01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/augusdj01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/augusdj01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allento01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allento01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arcidry01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arcidry01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 200 None
+ERROR:root:name 'team' is not defined
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsjo01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsjo01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ajincal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ajincal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/augusdj01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/augusdj01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arcidry01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arcidry01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/augusdj01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/augusdj01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthoca01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthoca01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allento01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allento01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderju01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderju01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ajincal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ajincal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsjo01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsjo01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderry01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderry01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/acyqu01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/acyqu01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsst01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsst01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/alexacl01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/alexacl01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderju01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderju01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/alexacl01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/alexacl01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ajincal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ajincal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderry01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderry01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsjo01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsjo01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allento01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allento01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/augusdj01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/augusdj01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsst01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsst01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthoca01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthoca01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/acyqu01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/acyqu01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arcidry01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arcidry01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/augusdj01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/augusdj01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsjo01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsjo01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ajincal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ajincal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allento01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allento01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/acyqu01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/acyqu01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderry01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderry01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderju01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderju01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arcidry01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arcidry01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/alexacl01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/alexacl01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsst01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adamsst01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthoca01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthoca01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 200 None
+ERROR:root:'NavigableString' object has no attribute 'text'
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/acyqu01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/acyqu01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arizatr01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthoca01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthoca01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anunoog01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/alexacl01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/alexacl01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/arthuda01.html HTTP/1.1" 200 None
+ERROR:root:decoding str is not supported
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 200 None
+ERROR:root:decoding str is not supported
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 200 None
+ERROR:root:'NavigableString' object has no attribute 'unicode'
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenja01.html HTTP/1.1" 200 None
+ERROR:root:decoding str is not supported
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aminual01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrico01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderky01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anderch01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allento01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allento01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/aldrila01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthoca01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthoca01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/antetgi01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/alexacl01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/alexacl01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anthojo01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/acyqu01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/acyqu01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/anigbik01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/asikom01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/allenla01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/adebaba01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/dudleja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/dudleja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/davisan02.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/dudleja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/davisan02.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/dudleja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/dudleja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/davisan02.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/dudleja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/dudleja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/davisan02.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/dudleja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/dudleja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/dudleja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/dudleja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/davisan02.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/dudleja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/dudleja01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/abrinal01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/afflaar01.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/d/davisan02.html HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 185
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+ERROR:root:'NoneType' object has no attribute 'findAll'
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+ERROR:root:'NoneType' object has no attribute 'findAll'
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+ERROR:root:'NoneType' object has no attribute 'findAll'
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+ERROR:root:'NoneType' object has no attribute 'findAll'
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+ERROR:root:'NoneType' object has no attribute 'findAll'
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+ERROR:root:'NoneType' object has no attribute 'findAll'
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
